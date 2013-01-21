@@ -293,6 +293,8 @@ Bundle 'Raimondi/delimitMate'
 Bundle 'scrooloose/syntastic'
 " Language related
 Bundle 'tpope/vim-rails'
+Bundle 'tpope/vim-haml'
+Bundle 'kchmck/vim-coffee-script'
 Bundle 'mattn/zencoding-vim'
 Bundle 'swaroopch/vim-markdown-preview'
 Bundle 'sampsyo/autolink.vim'
